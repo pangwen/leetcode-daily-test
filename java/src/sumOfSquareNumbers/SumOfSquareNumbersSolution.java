@@ -3,7 +3,7 @@ package sumOfSquareNumbers;
 /**
  * <p>
  * Description: 判断是否存在两个数 a<sup>2</sup> + b<sup>2</sup> = c
- * <p>
+ * </p>
  *  a^2 + b^2 = c
  * <p>
  * Created on 2021/4/29.
@@ -11,7 +11,7 @@ package sumOfSquareNumbers;
  * @author pangwen
  * @version 0.1
  */
-public class Solution {
+public class SumOfSquareNumbersSolution {
 
     public static boolean judgeSquareSum(int c){
         int sqrt = (int)Math.sqrt(c);

@@ -1,7 +1,5 @@
 package shipPackage;
 
-import java.util.Arrays;
-
 /**
  * <p>
  * Description: 在 D 天内送达包裹的能力
