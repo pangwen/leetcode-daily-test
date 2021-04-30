@@ -4,6 +4,8 @@ package sumOfSquareNumbers;
  * <p>
  * Description: 判断是否存在两个数 a<sup>2</sup> + b<sup>2</sup> = c
  * <p>
+ *  a^2 + b^2 = c
+ * <p>
  * Created on 2021/4/29.
  *
  * @author pangwen
