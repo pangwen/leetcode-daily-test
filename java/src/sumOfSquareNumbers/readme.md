@@ -1,5 +1,7 @@
 # 633. 平方数之和
 难度：中等  
+来源：力扣（LeetCode）  
+链接：https://leetcode-cn.com/problems/sum-of-square-numbers/
 
 ### 描述：  
 给定一个非负整数 `c`， 判断是否存在两个整数 `a` 和 `b`, 使得： `a^2 + b^2 = c`.  
