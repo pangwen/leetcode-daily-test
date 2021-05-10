@@ -20,7 +20,7 @@ public class LongestSubstringSolution {
         int max = 0;
         int right = 0;
         for (int i = 0; i < len; i++) {
-            //左移一格，集合也删除前一个字符
+            //右移一格，集合也删除前一个字符
             if (i > 0) {
                 set.remove(s.charAt(i - 1));
             }
